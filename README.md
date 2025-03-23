@@ -16,3 +16,5 @@ The game supports multiple play modes. Two human players can compete against eac
 The AI makes decisions using the **Minimax** algorithm with optional **Alpha-Beta Pruning** for optimization. The evaluation function is based on the number of completed square patterns on the board. Players can select different AI difficulty levels to adjust the challenge.
 
 ## Demo
+https://github.com/user-attachments/assets/7a6f6f2f-3b60-4a04-ba84-d3ece046a965
+
